@@ -1,0 +1,122 @@
+
+*{
+	margin: 0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+}
+.dec{
+	text-align:center;
+	margin: auto;
+}
+.header{
+
+	background-color:black;
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px
+
+}
+.header ul li {
+	list-style: none; 
+	display:inline-block;
+	margin:0 15px
+}
+.header ul li a{
+	color:white;
+	font size:22px
+}
+.header ul li a:hover{color: red;
+
+}
+.letstalk{
+	background-color:#f5f5f5;
+	padding-top:60px
+	padding-bottom:70px;
+}
+.container{
+	width:1140px;
+	margin:auto;
+	text-align:center;
+
+}
+
+.newsletter h1{color:black;
+ font size:56px;
+ text-align:center;
+
+}
+.input-1{width:28%;
+	padding:5px;
+}
+.input-2{width:28%;
+	padding:5px;
+}
+.input-3{
+	width:40%;
+	padding:5px;
+	margin:5px;
+}
+.input-4{
+	width:40%;
+	padding:5px;
+	margin:5px
+}
+.input-5{
+	width:40%;
+	padding:5px;
+	margin:5px;
+}
+.input-6{
+	width:40%;
+	padding: 5px;
+	margin: 5px;
+}
+.input-7{
+	width: 80%;
+	padding:11px; 
+	 margin:15px;
+	 height:120px
+}
+.input-8{
+	width:20%;
+	padding:4px;
+	background-color:green;
+	border:none;
+
+}
+.letstalk{
+	background-color:#d2f6fe;
+	padding-bottom:40px;
+	margin-top:50px
+}
+.container{
+	width: 1140px;
+
+}
+.letstalk h1 {
+font size:12px;
+margin-bottom: :15px;
+}
+
+.footer{
+	background-color: black;
+	height: 300px;
+	padding: 60px 0px;
+}
+.col h4{
+	color: white;
+	font-family: 'Roboto',sans-serif;
+	margin-bottom: 20px;
+}
+.col .menu ul li a{
+	color: #CECECE;
+	font-family: poping,sans-serif;
+	line-height: 24px;
+}
+
+.footer-menu:{
+	display:flex;
+	justify-content:space-around; 
+}
